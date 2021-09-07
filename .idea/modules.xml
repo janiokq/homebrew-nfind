@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nfind.iml" filepath="$PROJECT_DIR$/.idea/nfind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/homebrew-nfind.iml" filepath="$PROJECT_DIR$/.idea/homebrew-nfind.iml" />
     </modules>
   </component>
 </project>
