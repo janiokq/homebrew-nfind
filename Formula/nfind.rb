@@ -4,8 +4,8 @@
 class Nfind < Formula
   desc "TCP port scanner Program"
   homepage "https://github.com/janiokq"
-  url "https://github.com/janiokq/homebrew-nfind/releases/download/0.1.1/nfind_0.1.1.tar.gz"
-  sha256 "7b483a6fe0bcfb6f168f8a0712dab82ee61a0e15aa5a636990d222202c0e0b14"
+  url "https://github.com/janiokq/homebrew-nfind/releases/download/0.1.2/nfind_0.1.2.tar.gz"
+  sha256 "a8394e371cfc402798bdc523f8355b5665a57be2c3821d439662b20a881abb7b"
   license ""
 
   # depends_on "cmake" => :build
